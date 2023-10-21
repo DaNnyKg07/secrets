@@ -9,7 +9,7 @@
   "author": "Paras",
   "license": "ISC",
   "engines": {
-    "node": "16.15.0"
+    "node": "18.x"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
